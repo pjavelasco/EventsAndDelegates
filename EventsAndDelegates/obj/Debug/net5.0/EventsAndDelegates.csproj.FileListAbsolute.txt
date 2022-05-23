@@ -1,0 +1,16 @@
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\net5.0\EventsAndDelegates.exe
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\net5.0\EventsAndDelegates.deps.json
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\net5.0\EventsAndDelegates.runtimeconfig.json
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\net5.0\EventsAndDelegates.runtimeconfig.dev.json
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\net5.0\EventsAndDelegates.dll
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\net5.0\EventsAndDelegates.pdb
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.csproj.AssemblyReference.cache
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.AssemblyInfo.cs
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.dll
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\net5.0\refint\EventsAndDelegates.dll
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.pdb
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\net5.0\EventsAndDelegates.genruntimeconfig.cache
+C:\Users\javier.aljaro\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\net5.0\ref\EventsAndDelegates.dll
